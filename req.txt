@@ -1,7 +1,7 @@
-Flask==3.0.3
-Flask-Cors==4.0.1
-PyMySQL==1.1.1
-pandas==2.2.2
-openpyxl==3.1.5
-langchain-google-genai==1.0.6
-gunicorn==22.0.0
+Flask
+Flask-Cors
+PyMySQL
+pandas
+openpyxl
+langchain-google-genai
+gunicorn
